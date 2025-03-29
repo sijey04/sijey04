@@ -6,3 +6,5 @@
 📚 Open to collaborating on student projects and open-source contributions!
 
 ✉️ Reach me at faminianochristianjude@gmail.com
+
+![sijey04's Stats](https://github-readme-stats.vercel.app/api?username=sijey04&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
