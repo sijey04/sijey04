@@ -4,5 +4,6 @@
 
 ✉️ Reach me at faminianochristianjude@gmail.com
 
-![sijey04's Stats](https://github-readme-stats.vercel.app/api?username=sijey04&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![sijey04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sijey04&theme=vue-dark&hide_border=true)
+![sijey04's Stats](https://github-readme-stats.vercel.app/api?username=sijey04&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
+![sijey04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sijey04&theme=vue-dark&hide_border=true)
 ![sijey04's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sijey04&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
