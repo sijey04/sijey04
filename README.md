@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Christian Jude Faminiano
 
-💻 **Full-Stack Developer | System Architect | Tech Innovator**  
+💻 **Full-Stack Developer**  
 🚀 Passionate about building high-impact, scalable systems for businesses and communities.
 
 ---
