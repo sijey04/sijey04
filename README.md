@@ -49,15 +49,13 @@
 
 ---
 
-## 📊 GitHub Stats
-![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianjude&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-jude-faminiano-383718362/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:faminianochristianjude@gmail.com)
 
 
 ✉️ Reach me at faminianochristianjude@gmail.com
