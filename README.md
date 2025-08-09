@@ -46,6 +46,7 @@
 - **Alatas Car Rental** – Vehicle booking app with centralized web admin.  
 - **SupportHaven** – Platform connecting users with expert tech support.  
 - **Restaurant POS System** – Smart POS with analytics, menu, and staff management.
+- **Archon HRIS Admin System** - Comprehensive Human Resource Information System with employee management, payroll processing, and advanced analytics for enterprise-level HR operations.
 
 ---
 
